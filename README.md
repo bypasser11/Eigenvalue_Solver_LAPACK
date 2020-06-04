@@ -7,7 +7,8 @@ Requirements:
   -LAPACK Library
     - Installation of LAPACK Library please refer to : 
          http://www.netlib.org/lapack/index.html
-    - Please install the LAPACK Library in your $HOME directory or you can change the LAPACK directory in the makefile
+   
+   - Please install the LAPACK Library in your $HOME directory or you can change the LAPACK directory in the makefile
    
 How-to-use:
   On terminal where the directory is in this folder, run :
